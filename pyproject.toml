@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonry.api"
 name = "py-bootstrap-cli"
 version = "0.0.2"
 description = ""
-authors = ["Markus Lang"]
+authors = ["ph0xByte"]
 readme = "README.md"
 packages = [
     { include = "app", from = "src" }
